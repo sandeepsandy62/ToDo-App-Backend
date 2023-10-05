@@ -1,0 +1,2 @@
+1 . allow crud operations only to specific user who have created those 
+2 . create a api key for this backend so that only specific people can access it
